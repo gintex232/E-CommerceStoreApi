@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uVOMhyw4T/yQq7avFEzg09uzblgMvg6CQtqeC6xKupUAD3s1ak9ZTwy0fbngpjKsoZrKFAXCJLdKMSr9pMiNng==",
+  "dgSpecHash": "Kyv0Lu/0J4eNWqkk6kfhg5E7QCnp4extJ049K4GKx4tJGiVhKkOOvNjbKr0fT4LwXU7KfBJ6KLkaGN086+9aRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Projects\\BookStoreApi\\BookStoreApi\\StoreApi.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Projects\\BookStoreApi\\BookStoreApi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
@@ -13,6 +13,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.11\\microsoft.entityframeworkcore.relational.7.0.11.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.11\\microsoft.entityframeworkcore.sqlite.7.0.11.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.11\\microsoft.entityframeworkcore.sqlite.core.7.0.11.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.11\\microsoft.entityframeworkcore.tools.7.0.11.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
